@@ -19,11 +19,16 @@ git clone https://github.com/breezekiller789/UTF_8_Mandarin_Parser.git
 ## Running the tests
 
 ```
-gcc UTF8_Mandarin_Parser.c -o UTF8_Mandarin_Parser
+make
 ```
 
 ```
 ./UTF8_Mandarin_Parser < TestInputs/input1.txt
+```
+
+Type this to remove executable files
+```
+make clean
 ```
 
 ## Author
