@@ -33,7 +33,9 @@ make clean
 
 ## Author
 
-* **Willy Huang** - *Initial work* - [Website](https://breezekiller789.github.io/blog/)
+* **Willy Huang** - *Initial work*
+* [Website](https://breezekiller789.github.io/blog/)
+* [Linkedin](https://www.linkedin.com/in/jin-wei-huang-6a4105208/)
 
 ## Acknowledgments
 
