@@ -2,7 +2,7 @@
 
 A program that can count the occurrence of Mandarin words in a paragraph
 
-# Quick Demo
+## Quick Demo
 
 ![image](https://github.com/breezekiller789/UTF_8_Mandarin_Parser/blob/master/Demo/UTF8_Mandarin_Parser_Demo.gif)
 
